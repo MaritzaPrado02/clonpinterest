@@ -21,4 +21,4 @@ Este proyecto es un clon de la interfaz de usuario de Pinterest, creado purament
 Dsitribuido bajo la Licencia MTI. Consulta `LICENSE` para obtener más información.
 
 ### Contacto 
-Maritza Prado: [Mi LinkedIn](www.linkedin.com/in/maritzaprado)
+Maritza Prado: [Mi LinkedIn](https://www.linkedin.com/in/maritzaprado/)
