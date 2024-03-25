@@ -15,7 +15,7 @@ Este proyecto es un clon de la interfaz de usuario de Pinterest, creado purament
 
 
 ### Vista Previa del Proyecto
-(Pendiente)
+![Demo](/imagenes/pinterest_screen.png)
 
 ### Licencia
 Dsitribuido bajo la Licencia MTI. Consulta `LICENSE` para obtener más información.
